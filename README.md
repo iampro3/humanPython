@@ -1,9 +1,14 @@
 # humanPython
 
-# test 0315
+# Update 0322 git repository 정리함
 
-- python 프로젝트를 read.me 파일을 재생성했다.
-> ignore 파일 생성도 했다.
+- 0315 : python 프로젝트를 read.me 파일을 재생성했다.
+> 0315 : ignore 파일 생성도 했다.
+- 0322
+- Day 01~06까지 수업 내용 정리
+- Day 05 : pycharm 설치
+- Day 06 : jupyter notebook 에서 font 추가 및 vs code 로컬에서 font 추가함 / Matplotlib 에서 시각화 공부
+- Day 07 : humanSan.git 생성 & VS code에서 가상환경 설정해서, plotly 및 scipy 설정함
 
 위의 두 개의 파일은 모두 생성해야 한다.
 1. read.me : 이 human에서 Python 수업내용의 코드를 정리했다.
